@@ -1,0 +1,10 @@
+li.greenlight {
+  color: green;
+  font: 21px arial, sans-serif;
+}
+ul.error {
+  color: red;
+}
+ol.noerror {
+  color: blue;
+}
